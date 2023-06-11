@@ -6,7 +6,7 @@
 
 ### HEY guys, I am Jagan
 - 🔭 I’m currently working on my Django app :grin:
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning Pyhon frameworks.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love Gaming, Travelling, Cooking :raised_hands:
