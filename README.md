@@ -2,7 +2,7 @@
 <h3 align="center">Student at VIT, Vellore🌟.</h3>
 
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/Jagan-Janakiraman/githubProfile/blob/main/Procrastination.gif" />
+<img align="right" height="270px" alt="GIF" src="https://github.com/Jagan-Janakiraman/githubProfile_sources/blob/main/gifImages/Procrastination.gif" />
 
 ### HEY guys, I am Jagan
 - 🔭 I’m currently working on my Flask and Django app :grin:
