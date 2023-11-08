@@ -5,8 +5,8 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/Jagan-Janakiraman/githubProfile_sources/blob/main/gifImages/Procrastination.gif" />
 
 ### HEY guys, I am Jagan
-- 🔭 I’m currently working on my Flask and Django app :grin:
-- 🌱 I’m currently learning Pyhon frameworks.
+- 🔭 I’m currently working on my AWS knowledge and other cloud related concepts:grin:
+- 🌱 I’m currently learning AWS, Bash, AWS automation.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love Gaming, Travelling, Cooking :raised_hands:
